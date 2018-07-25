@@ -1,7 +1,7 @@
 ﻿using System;
 using Creational.FactoryMethod.Example1.Models.Entities;
 
-namespace Creational.FactoryMethod
+namespace Creational.FactoryMethod.Example1
 {
     /// <summary>
     /// 

@@ -1,7 +1,7 @@
 ﻿using System;
 using Creational.Prototype.Example1.Models.Entities;
 
-namespace Creational.Prototype
+namespace Creational.Prototype.Example1
 {
     /// <summary>
     /// MainApp startup class for Real-World 

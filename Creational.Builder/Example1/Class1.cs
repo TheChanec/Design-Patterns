@@ -1,8 +1,8 @@
-﻿using Creational.Builder.Example1.Models.Builders;
-using System;
+﻿using System;
 using Creational.Builder.Example1.Models;
+using Creational.Builder.Example1.Models.Builders;
 
-namespace Creational.Builder
+namespace Creational.Builder.Example1
 {
     public class Class1
 

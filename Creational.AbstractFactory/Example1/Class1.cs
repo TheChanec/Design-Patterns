@@ -2,7 +2,7 @@
 using Creational.AbstractFactory.Example1.Models.Entities;
 using Creational.AbstractFactory.Example1.Models.Factories;
 
-namespace Creational.AbstractFactory
+namespace Creational.AbstractFactory.Example1
 {
     public class Class1
     {
