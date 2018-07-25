@@ -1,17 +1,17 @@
 ﻿using System;
 
-namespace Core.DesignPatterns.Creational.Factory
+namespace Core.Examples.Creational.FactoryMethod
 {
     /// <summary>
     /// MainApp startup class for Structural 
     /// Factory Method Design Pattern.
     /// </summary>
-    public class FactoryExample
+    public class FactoryMethodExample
     {
         /// <summary>
         /// Entry point into console application.
         /// </summary>
-        public FactoryExample()
+        public FactoryMethodExample()
         {
             // An array of creators
             Creator[] creators = new Creator[2];
