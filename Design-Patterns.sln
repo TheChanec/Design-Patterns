@@ -5,15 +5,17 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication", "WebApplication\WebApplication.csproj", "{47C15894-0BCF-483C-AF26-58963FD3365E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Examples", "Core.Examples\Core.Examples.csproj", "{50170199-51BA-489C-828A-894A51759C91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Examples", "Core.Examples\Infrastructure.Examples.csproj", "{50170199-51BA-489C-828A-894A51759C91}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Design.Patterns.Creational", "Design.Patterns.Creational", "{4B58845C-DB98-49A6-93E7-A33ABBA730F6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{4B58845C-DB98-49A6-93E7-A33ABBA730F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.AbstractFactory", "Creational.AbstractFactory\Creational.AbstractFactory.csproj", "{D9900661-29C6-448A-9493-8D331C2CFAE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Builder", "Creational.Builder\Creational.Builder.csproj", "{68677BAF-210F-4CE4-AB3B-F27266598109}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.FactoryMethod", "Creational.FactoryMethod\Creational.FactoryMethod.csproj", "{1164A56E-53C2-4D55-9BEF-37BB1F37E2CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{1F7D112D-B1CA-47D1-B5AA-D9334EF50A8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,6 +48,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{50170199-51BA-489C-828A-894A51759C91} = {1F7D112D-B1CA-47D1-B5AA-D9334EF50A8B}
 		{D9900661-29C6-448A-9493-8D331C2CFAE3} = {4B58845C-DB98-49A6-93E7-A33ABBA730F6}
 		{68677BAF-210F-4CE4-AB3B-F27266598109} = {4B58845C-DB98-49A6-93E7-A33ABBA730F6}
 		{1164A56E-53C2-4D55-9BEF-37BB1F37E2CE} = {4B58845C-DB98-49A6-93E7-A33ABBA730F6}
