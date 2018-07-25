@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Core.DesignPatterns.Structural.Bridge
+namespace Core.Examples.Structural.Bridge
 {
     /// <summary>
     /// MainApp startup class for Structural
