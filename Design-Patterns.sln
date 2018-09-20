@@ -25,21 +25,26 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Adapter", "Structural.Adapter\Structural.Adapter.csproj", "{758E0D5C-648B-424C-859B-1AADCB04C151}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Proxy", "Structural.Proxy\Structural.Proxy.csproj", "{759AC0A5-48FC-44CD-BBED-A9E29B192C6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Proxy", "Structural.Proxy\Structural.Proxy.csproj", "{759AC0A5-48FC-44CD-BBED-A9E29B192C6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Facade", "Structural.Facade\Structural.Facade.csproj", "{265DD88F-2D47-46A3-8118-0FCE0D4174BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Facade", "Structural.Facade\Structural.Facade.csproj", "{265DD88F-2D47-46A3-8118-0FCE0D4174BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Decorator", "Structural.DEcorator\Structural.Decorator.csproj", "{C052F3C8-725E-43C9-A3ED-0B3F2EE96C8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Decorator", "Structural.DEcorator\Structural.Decorator.csproj", "{C052F3C8-725E-43C9-A3ED-0B3F2EE96C8E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{12CCDA9B-D6D6-4BE3-8906-D8DA515FD974}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Composite", "Structural.Composite\Structural.Composite.csproj", "{32294649-E2DC-4464-AD29-5AFEC2E45320}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Composite", "Structural.Composite\Structural.Composite.csproj", "{32294649-E2DC-4464-AD29-5AFEC2E45320}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.ChainOfResponsibility", "Behavioral.ChainOfResponsibility\Behavioral.ChainOfResponsibility.csproj", "{A214E985-B5C7-447C-A71B-3DBC72A6268B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.ChainOfResponsibility", "Behavioral.ChainOfResponsibility\Behavioral.ChainOfResponsibility.csproj", "{A214E985-B5C7-447C-A71B-3DBC72A6268B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Observer", "Behavioral.Observer\Behavioral.Observer.csproj", "{AD26D034-E1C4-4F2D-9CE7-8A21799BE1B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.Observer", "Behavioral.Observer\Behavioral.Observer.csproj", "{AD26D034-E1C4-4F2D-9CE7-8A21799BE1B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Iterator", "Behavioral.Iterator\Behavioral.Iterator.csproj", "{4F4F20BF-AC6D-4705-8CAF-D91624B1EA5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.Iterator", "Behavioral.Iterator\Behavioral.Iterator.csproj", "{4F4F20BF-AC6D-4705-8CAF-D91624B1EA5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{062F9117-B0A3-4DEB-9B5D-B6FAFA3F52AA}"
+	ProjectSection(SolutionItems) = preProject
+		.filenesting.json = .filenesting.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
